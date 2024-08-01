@@ -1,0 +1,19 @@
+{
+  "name": "aap2",
+  "version": "1.0.0",
+  "main": "code2.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^5.1.1"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "main": "code1.js",
+  "type": "module",
+  
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^5.1.1"
+  }
+}
